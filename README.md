@@ -5,7 +5,7 @@
 - <b>SOC Automation Project</b>
   - [MyDFIR Project guide video I used for the project](https://www.youtube.com/watch?v=Lb_ukgtYK_U&list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ&index=5)
 - <b>Active Directory Project (Home Lab) </b>
-  - [ - ](https://www.youtube.com/watch?v=5OessbOgyEo&list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ&index=13)
+  - [Link to Github Project](https://github.com/JonathanAung/Active-Directory-Project-HomeLab-)
 
 <h2>📺 YouTube Videos</h2>
 
