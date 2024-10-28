@@ -7,7 +7,7 @@
 - <b>Active Directory Project (Home Lab) </b>
   - [Link to Github Project](https://github.com/JonathanAung/Active-Directory-Project-HomeLab-)
 
-<h2>📺 YouTube Videos</h2>
+<h2>📺 Place Holder for future projects YouTube Videos</h2>
 
 - [Filler field for future videos](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
